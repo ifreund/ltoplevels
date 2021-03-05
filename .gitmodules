@@ -1,0 +1,3 @@
+[submodule "zig-wayland"]
+	path = zig-wayland
+	url = https://github.com/ifreund/zig-wayland
